@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/akshaynaresh/airbnb-exp-clone/static/css/main.a12d2f6f.css",
-    "main.js": "/akshaynaresh/airbnb-exp-clone/static/js/main.0a56f9fa.js",
-    "static/media/photo-grid.png": "/akshaynaresh/airbnb-exp-clone/static/media/photo-grid.294d59b66b94e0e456cf.png",
-    "static/media/mountain-bike.png": "/akshaynaresh/airbnb-exp-clone/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
-    "static/media/wedding-photography.png": "/akshaynaresh/airbnb-exp-clone/static/media/wedding-photography.62dfa0af6d4f23912427.png",
-    "static/media/katie-zaferes.png": "/akshaynaresh/airbnb-exp-clone/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
-    "static/media/airbnb-logo.png": "/akshaynaresh/airbnb-exp-clone/static/media/airbnb-logo.e4424517383d14a03a24.png",
-    "index.html": "/akshaynaresh/airbnb-exp-clone/index.html",
-    "main.a12d2f6f.css.map": "/akshaynaresh/airbnb-exp-clone/static/css/main.a12d2f6f.css.map",
-    "main.0a56f9fa.js.map": "/akshaynaresh/airbnb-exp-clone/static/js/main.0a56f9fa.js.map"
+    "main.css": "/airbnb-exp-clone/static/css/main.a12d2f6f.css",
+    "main.js": "/airbnb-exp-clone/static/js/main.5f38924e.js",
+    "static/media/photo-grid.png": "/airbnb-exp-clone/static/media/photo-grid.294d59b66b94e0e456cf.png",
+    "static/media/mountain-bike.png": "/airbnb-exp-clone/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding-photography.png": "/airbnb-exp-clone/static/media/wedding-photography.62dfa0af6d4f23912427.png",
+    "static/media/katie-zaferes.png": "/airbnb-exp-clone/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
+    "static/media/airbnb-logo.png": "/airbnb-exp-clone/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "index.html": "/airbnb-exp-clone/index.html",
+    "main.a12d2f6f.css.map": "/airbnb-exp-clone/static/css/main.a12d2f6f.css.map",
+    "main.5f38924e.js.map": "/airbnb-exp-clone/static/js/main.5f38924e.js.map"
   },
   "entrypoints": [
     "static/css/main.a12d2f6f.css",
-    "static/js/main.0a56f9fa.js"
+    "static/js/main.5f38924e.js"
   ]
 }
