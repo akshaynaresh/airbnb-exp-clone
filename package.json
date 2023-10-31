@@ -1,7 +1,7 @@
 {
   "name": "airbnb-exp-clone",
   "version": "0.1.0",
-  "homepage": "https://github.com/akshaynaresh/airbnb-exp-clone",
+  "homepage": "https://akshaynaresh.github.io/airbnb-exp-clone",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
